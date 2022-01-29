@@ -1,5 +1,7 @@
 # investing-datascience-style
 
+Watch this video for reference: https://youtu.be/4jaBKXDqg9U
+
 ## Required Packages:
 1. numpy
 2. pandas
